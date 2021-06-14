@@ -11,7 +11,7 @@ If you use Laravel Framework you follow this steps:
 
 Example of use:
 
-## In your .env file put this variables:
+### In your .env file put this variables:
 ```bash
 FB_PIXEL_ID = "{your_facebook_pixel_id}"
 FB_ACCESS_TOKEN = "{your_facebook_api_conversion}"
