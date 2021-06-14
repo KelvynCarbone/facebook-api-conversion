@@ -1,7 +1,7 @@
 # facebook-api-conversion
 Class Service to make integration with Facebook API Conversation
 
-I create this service working with GuzzleHttp & Laravel Framework. I recommend you to use this service with Job (Queue) in your application.
+I create this service working with GuzzleHttp & Laravel Framework. I recommend to you use this service with Job (Queue) in your application.
 
 ## If you use Laravel Framework you follow this steps:
 - Create a directory Services in app (app/Services).
@@ -71,4 +71,4 @@ class TestController extends Controller
 - Start creating your Conversion API, see: [https://developers.facebook.com/docs/marketing-api/conversions-api/get-started] 
 - Generate your API Conversion Access Token ![step-1](https://user-images.githubusercontent.com/5288360/121966455-15f8da80-cd45-11eb-97a3-b62d668f4618.png)
 - Get your test code: ![step-2](https://user-images.githubusercontent.com/5288360/121966439-0e393600-cd45-11eb-8b5d-2afb945ab43c.png)
-- Run example test
+- Run Example 1 and Example 2
