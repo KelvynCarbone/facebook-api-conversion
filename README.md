@@ -14,6 +14,7 @@ I create this service working with GuzzleHttp & Laravel Framework. I recommend y
 #### In your .env file put this variables:
 ```bash
 FB_PIXEL_ID = "{your_facebook_pixel_id}"
+FB_TEST_CODE = "{your_facebook_test_code}" //see facebook test code section
 FB_ACCESS_TOKEN = "{your_facebook_api_conversion}"
 ```
 
