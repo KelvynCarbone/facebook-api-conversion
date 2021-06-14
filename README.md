@@ -66,6 +66,7 @@ class TestController extends Controller
 ```
 ![image](https://user-images.githubusercontent.com/5288360/121966848-b4853b80-cd45-11eb-9dfa-363315066a6b.png)
 
+After your tests ok, remove the line **'test_event_code' => xxxxxx** of yours requests to make this work in production
 
 # How to generate your Facebook Conversion API
 - Start creating your Conversion API, see: [https://developers.facebook.com/docs/marketing-api/conversions-api/get-started] 
