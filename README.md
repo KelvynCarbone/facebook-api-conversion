@@ -48,12 +48,8 @@ class TestController extends Controller
                     'event_name' => 'Purchase',
                     'event_time' => Carbon::now()->timestamp,
                     'user_data' => [
-                        'em' => [
-                            0 => '309a0a5c3e211326ae75ca18196d301a9bdbd1a882a4d2569511033da23f0abd',
-                        ],
                         'client_ip_address' => $_SERVER['REMOTE_ADDR'],
-                        'client_user_agent' => $_SERVER['HTTP_USER_AGENT'],
-                        'fbp' => 'fb.1.1558571054389.1098115397',
+                        'client_user_agent' => $_SERVER['HTTP_USER_AGENT']
                     ],
                     'custom_data' => [
                         'currency' => 'BRL',
