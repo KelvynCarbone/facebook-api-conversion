@@ -64,7 +64,7 @@ class FacebookApiService extends BaseService
                         ],
                         'custom_data' => [
                             'currency' => 'BRL',
-                            'value' => 1,
+                            'value' => 10,
                         ],
                         'event_source_url' => 'https://kelvyncarbone.com.br',
                         'action_source' => 'website',
