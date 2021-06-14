@@ -3,15 +3,15 @@ Class Service to make integration with Facebook API Conversation
 
 I create this service working with GuzzleHttp & Laravel Framework. I recommend you to use this service with Job (Queue) in your application.
 
-If you use Laravel Framework you follow this steps:
+#### If you use Laravel Framework you follow this steps:
 - Create a directory Services in app (app/Services).
 - Download this class and put in app/Services.
 - Run composer dumpautoload
 
 
-Example of use:
+## Example of use:
 
-### In your .env file put this variables:
+#### In your .env file put this variables:
 ```bash
 FB_PIXEL_ID = "{your_facebook_pixel_id}"
 FB_ACCESS_TOKEN = "{your_facebook_api_conversion}"
