@@ -33,4 +33,6 @@ class TestController extends Controller
 
 
 # How to generate your Facebook Conversion API
-![Example of integration](https://habrastorage.org/files/b2a/380/96b/b2a38096b6e648978a464430e1537673.png)
+
+- Start creating your Conversion API, see: [https://developers.facebook.com/docs/marketing-api/conversions-api/get-started] 
+- Generate your API Conversion Access Token [Example] (https://ibb.co/8KLWN3k)
