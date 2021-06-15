@@ -1,7 +1,7 @@
 # facebook-api-conversion
 Service Class to make integration with Facebook API Conversion
 
-I create this service working with GuzzleHttp & Laravel Framework. I recommend to you use this service with Job (Queue) in your application.
+I created this service working with GuzzleHttp & Laravel Framework. I recommend to you use this service with Job (Queue) in your application.
 
 ## If you use Laravel Framework you follow this steps:
 - Create a directory Services in app (app/Services).
