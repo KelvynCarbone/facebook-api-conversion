@@ -1,5 +1,5 @@
 # facebook-api-conversion
-Service Class to make integration with Facebook API Conversation
+Service Class to make integration with Facebook API Conversion
 
 I create this service working with GuzzleHttp & Laravel Framework. I recommend to you use this service with Job (Queue) in your application.
 
